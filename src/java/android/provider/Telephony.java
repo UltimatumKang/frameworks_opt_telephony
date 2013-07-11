@@ -1996,8 +1996,8 @@ public final class Telephony {
                 CMAS_CERTAINTY
         };
     }
-    
-  /**
+
+    /**
      * Contains phone numbers that are blacklisted
      * for phone and/or message purposes.
      * @hide
