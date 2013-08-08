@@ -25,10 +25,10 @@ import android.os.Looper;
 import android.os.Message;
 import android.os.Parcel;
 import android.text.TextUtils;
-import android.util.Log;
+import android.telephony.Rlog;
 
-import com.android.internal.telephony.IccCardApplicationStatus;
-import com.android.internal.telephony.IccCardStatus;
+import com.android.internal.telephony.uicc.IccCardApplicationStatus;
+import com.android.internal.telephony.uicc.IccCardStatus;
 
 import java.util.ArrayList;
 
